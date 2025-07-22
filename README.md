@@ -2,4 +2,4 @@
 Template kernel repo for future projects
 
 
-Based on (Osdev Meaty Skeleton tutorial](https://wiki.osdev.org/Meaty_Skeleton)
+Based on [Osdev Meaty Skeleton tutorial](https://wiki.osdev.org/Meaty_Skeleton)
